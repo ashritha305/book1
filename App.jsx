@@ -6,9 +6,9 @@ import StackNavigation1 from './Components/StackNavigation1'
 // const Stack = createNativeStackNavigator();
 const App = () => {
   return (
-    <View style={{flex:1}}>
+    
         <StackNavigation1 />
-    </View>
+   
       
   )
 }
